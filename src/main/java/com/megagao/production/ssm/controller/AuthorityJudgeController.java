@@ -20,7 +20,7 @@ import static com.megagao.production.ssm.common.Constants.NO_PERMISSION;
 
 /**
  * created on 2017年3月25日 
- *
+ * 测试功能
  * 权限判断controller
  *
  * @author  megagao
